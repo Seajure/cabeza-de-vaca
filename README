@@ -1,6 +1,6 @@
 # cabeza-de-vaca
 
-FIXME: write description
+Local service discovery for Clojure.
 
 ## Usage
 
@@ -12,6 +12,6 @@ FIXME: write
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Seajure, the Seattle Clojure Group
 
 Distributed under the Eclipse Public License, the same as Clojure.
